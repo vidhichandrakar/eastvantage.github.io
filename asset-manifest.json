@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eastvantage.github.io/static/css/main.f68ebc19.css",
+    "main.js": "/eastvantage.github.io/static/js/main.bc75bab6.js",
+    "static/js/787.fecf261d.chunk.js": "/eastvantage.github.io/static/js/787.fecf261d.chunk.js",
+    "static/media/bg.webp": "/eastvantage.github.io/static/media/bg.8d5d2c19795ca00f466c.webp",
+    "index.html": "/eastvantage.github.io/index.html",
+    "main.f68ebc19.css.map": "/eastvantage.github.io/static/css/main.f68ebc19.css.map",
+    "main.bc75bab6.js.map": "/eastvantage.github.io/static/js/main.bc75bab6.js.map",
+    "787.fecf261d.chunk.js.map": "/eastvantage.github.io/static/js/787.fecf261d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68ebc19.css",
+    "static/js/main.bc75bab6.js"
+  ]
+}
